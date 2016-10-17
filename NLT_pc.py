@@ -308,7 +308,7 @@ from wx.lib.delayedresult import startWorker
 
 app = wx.App(False)
 
-work_dir = "C:\\Users\\agoldfarb\\Desktop\\LVLR"
+work_dir = "C:\\Users\\*\\Desktop\\LVLR"
 work_direct = os.getcwd()
 
 
